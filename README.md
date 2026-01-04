@@ -27,7 +27,7 @@ This package is supported for *Linux*. The package has been tested on the follow
 + Linux: Ubuntu 18.04
 
 ### Python Dependencies
-`Bis` mainly depends on the Python scientific stack.
+`PAIR` mainly depends on the Python scientific stack.
 ```
 numpy
 scipy
