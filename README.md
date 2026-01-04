@@ -39,10 +39,6 @@ anndata
 ```
 For a specific setting, please see <a href="https://github.com/XuYuanchi/PAIR/blob/main/environment.yml">requirement</a>.
 
-# Detailed tutorials with example datasets
-`PAIR` is a bipartite graph-based autoencoder model for scATAC-seq data analysis, such as imputation and clustering. 
-The example can be seen in the <a href="https://github.com/XuYuanchi/PAIR/blob/main/main.py">train.py</a>.
-
 # Installation Guide
 ```
 $ git clone https://github.com/XuYuanchi/PAIR.git
@@ -50,6 +46,10 @@ $ conda create -n pair python=3.9.19
 $ conda activate pair
 $ conda env create -f environment.yml
 ```
+
+# Usage
+`PAIR` is a bipartite graph-based autoencoder model for scATAC-seq data analysis, such as imputation and clustering. 
+The example can be seen in the <a href="https://github.com/XuYuanchi/PAIR/blob/main/main.py">train.py</a>.
 
 # Data Availability
 The data that support the findings of this study are openly available in <a href="https://doi.org/10.5281/zenodo.18085474">Zenodo</a>
