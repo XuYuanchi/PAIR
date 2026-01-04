@@ -1,0 +1,23 @@
+path: "./data/clustering/"
+min_regions: 0
+min_cells: 0
+cl_type: "cell_type"
+save_path: "./clustering/"
+
+layers: 3
+drop_out: 0.1
+feats_dim: 64
+lr: 0.005
+weight_decay: 0
+
+decoder: 'NB'
+impute: True
+use_cell2cell: False
+
+sample_rate: 0.1
+log_interval: 10
+iteration: 3000
+
+alpha: 1
+beta: 0.001
+lam: 0.
