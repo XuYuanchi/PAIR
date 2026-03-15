@@ -63,9 +63,9 @@ This project is covered under the **MIT License**.
 @article{su2024distribution,
   title={PAIR: Reconstructing Single-Cell Open-Chromatin Landscapes for Transcription Factor Regulome Mapping},
   author={Su Yanchi et al.},
-  journal={},
-  pages={},
-  year={},
-  publisher={}
+  journal={Advanced Science},
+  pages={e24392},
+  year={2026},
+  publisher={wiley}
 }
 ```
